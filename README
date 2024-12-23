@@ -1,0 +1,6 @@
+Please put the dataset in the data folder.
+
+In the folder of the project run:
+python kaggle.py --init_path --mode --model_type
+
+- init_path is the current path of the file
